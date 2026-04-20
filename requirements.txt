@@ -1,0 +1,8 @@
+scikit-learn
+numpy
+pandas
+
+scikit-image
+nibabel
+joblib
+matplotlib
